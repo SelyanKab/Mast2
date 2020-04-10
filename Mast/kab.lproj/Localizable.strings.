@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Mast
+
+  Created by Shihab Mehboob on 24/11/2019.
+  Copyright © 2019 Shihab Mehboob. All rights reserved.
+*/
+
+"Find out more" = "Issin ugar";
+"Home" = "Agejdan";
+"Local" = "Adigan";
+"All" = "Akk";
+"New Window" = "Asfaylu amaynut";
+"Sort" = "Smizzwer";
+"Top" = "Afella";
+"Like" = "Am";
+"Reply" = "Err";
+"Share" = "Bḍu";
+"Translate" = "Suqqel";
+"Mute" = "Couper le son";
+"Muted" = "Asusam";
+"Duplicate" = "Sisleg";
+"Delete" = "Kkes";
+"Closed" = "Yettwamdel";
+"Default" = "Prédéfini(e)";
+"Social" = "Ametti";
+"Spam" = "Aspam";
+"More" = "Ugar";
+"Activity" = "Armud";
+"Notifications" = "Ilɣa";
+"Likes" = "Iɛǧeb-iyi";
+"Update" = "Mettre à jour";
+"Updated" = "Yettwalqem";
+"Remove" = "Supprimer";
+"Follow" = "Ḍfeṛ";
+"Add" = "Ajouter";
+"Links" = "Iseɣwan";
+"Friends" = "Imdukal";
+"Block" = "Iḥedran";
+"Blocked" = "Yewḥel";
+"Display name" = "Isem n uskan";
+"Scheduled" = "Yettusɣiwes";
+"Gallery" = "Tagennarit";
+"Save" = "Sekles";
+"Members" = "Imedrawen";
+"Following" = "Aḍfaṛ";
+"Post" = "Amagrad";
+"Add Media" = "Rnu amidya";
+"Visibility" = "Tametwalant";
+"Emoticons" = "Tugnacin n taḍist";
+"Drafts" = "Irewwayen";
+"Public" = "Azayez";
+"Unlisted" = "Ur d-yettwabder ara";
+"Direct" = "Srid";
+"Schedule" = "Planification";
+"Clear All" = "Sfeḍ meṛṛa";
+"Save Draft" = "Sekles tamerkast";
+"Discard" = "Ignorer";
+"Camera" = "Takamiṛat";
+"Audio" = "Imesli";
+"Now Playing" = "Actuellement";
+"Accounts" = "Imiḍanen";
+"Fast" = "Rapide";
+"Immediately" = "Imir imir";
+"Monthly" = "Yal aggur";
+"See More" = "Wali ugar";
+"Privacy Policy" = "Tasertit tabaḍnit";
+"Terms of Service" = "Tiwtilin n useqdec";
+"Load More" = "Sali ugar";
+"Loading..." = "Yessalay-ed…";
+"Trending" = "Tiddin";
+"History" = "Amazray";
+"All Accounts" = "Akk imiḍanen";
+"Dismiss" = "Aggi";
+"Messages" = "Iznan";
+"Explore" = "Snirem";
+"Profile" = "Ameɣnu";
+"Add New Instance" = "Rnu tummant tamynut";
+"Instance name:" = "Isem n tummant:";
+"Enter Instance Name" = "Sekcem isem n tummant";
+"Create" = "Rnu";
+"Search" = "Nadi";
+"Settings" = "Iɣewwaṛen";
